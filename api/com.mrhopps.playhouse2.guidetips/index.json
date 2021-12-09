@@ -11,15 +11,15 @@
         "InterstitialFacebook": "#",
         "NativeFacebook": "#",
         "SDKKEYAppLovin": "MRQ6wu7Or0GoeHcIXLPNCxnsPNMTnTfRCzkKik91TITN6xGsTDnXQ9vbv-8RggawlzwcdwiU0e5izkq0swvImE",
-        "BannerAppLovin": "b04abe94402cf22c",
-        "InterstitialAppLovin": "cde52591fc6b7e58",
-        "MRECAppLovin": "8c4b51d8d7240373",
-        "RewardAppLovin": "4fe70ee0e625c0cd"
+        "BannerAppLovin": "e1e45b9e5d06583e",
+        "InterstitialAppLovin": "718bf1a790bfdc22",
+        "MRECAppLovin": "f05b4fe7e9cdfed3",
+        "RewardAppLovin": "a0b2837c62515528"
       }
     ],
     "items": [
       {
-        "title": "Main Quests",
+        "title": "Main Quests Test",
         "image": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/list1.jpg"
       },
       {
