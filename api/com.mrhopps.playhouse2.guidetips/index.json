@@ -20,7 +20,7 @@
     "items": [
       {
         "title": "Main Quests Test",
-        "image": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/list1.jpg"
+        "image": "https://i.pinimg.com/564x/04/e4/81/04e481b8fe95c298756c98259fd3dcca.jpg"
       },
       {
         "title": "A Hidden Path",
@@ -54,8 +54,8 @@
         "isLink": "false",
         "link_title": "",
         "setLink": "",
-        "image_link": "",
-        "text": "Below is a walkthrough on the main quests in Baldo The Guardian Owls! Please note that it’s also in the order that we did them in!",
+        "image_link": "https://i.pinimg.com/564x/04/e4/81/04e481b8fe95c298756c98259fd3dcca.jpg",
+        "text": "Text 11111111111111111",
         "isNative": "false"
       },
       {
@@ -65,96 +65,12 @@
         "gravity": "left",
         "left": "10",
         "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
+        "isLink": "true",
+        "link_title": "Rate Us",
+        "setLink": "https://play.google.com/store/apps/details?id=com.TheElderScrolls5.guide.TheElderScrolls",
         "image_link": "",
-        "text": "Meet Baldo’s Grandpa",
+        "text": "Test Text 22222222222222222 22222222222222222222222222222222222222222222222222222222 22222222222222222222222222222222222222222222222222222222 22222222222222222222222222222222222222222222222222222222 2222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222",
         "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "From the starting point, follow the path west. Head inside the house with a donkey outside to trigger a cutscene and the Meet Baldo’s Grandpa trophy.",
-        "isNative": "true"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#f56342",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "Talk to Mrs. Iaddina",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "Exit grandpa’s house and head northeast. Just before the starting area, take the stairs down and follow the path on the right. Walk across the small bridge then enter the house. Proceed through the house and exit out the back to reach Iaddina. Speaking with her will trigger the Talk to Chickwoman trophy! She will also give you a side quest to find her missing chickens!",
-        "isNative": "true"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "From the starting point, follow the path west. Head inside the house with a donkey outside to trigger a cutscene and the Meet Baldo’s Grandpa trophy.",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#f56342",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "The Abandoned Owl Tower",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "Head northwest from Iaddina to come to the store. Speak with the boy to the left of the store to learn that he spotted a chicken in the area. Afterwards, a brief scene will trigger showing the chicken heading into Owl Tower. Make your way there and head inside to trigger The Abandoned Owl Tower trophy. To get out of the tower, you’ll need to push the 2 stone owls onto the golden squares on the floor. Next, head to the decorated tile on the floor in front of one of the eyes and tell Yuna to wait. Head to the other decorated tile on the floor in front of the other eyes and stand there to trigger a cutscene. Once it’s done, head to the guardian symbol in the middle of the floor and play the Guardian’s Horn, revealing a ladder. Climb up it. Again, play the Guardian’s Horn on the guardian symbol when prompted by the owl to reveal a door.",
-        "isNative": "true"
       }
     ],
     "content2": [
