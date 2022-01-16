@@ -1,0 +1,506 @@
+{
+  "GuideData": {
+    "AdsController": [
+      {
+        "NetworkAds": "applovin",
+        "AdMobId": "pub-3940256099942544",
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+        "SDKKEYAppLovin": "MRQ6wu7Or0GoeHcIXLPNCxnsPNMTnTfRCzkKik91TITN6xGsTDnXQ9vbv-8RggawlzwcdwiU0e5izkq0swvImE",
+        "BannerAppLovin": "0da4d768b1ff1df0",
+        "InterstitialAppLovin": "5729755d60961fa4",
+        "MRECAppLovin": "b7ccafb74d488a65",
+        "RewardAppLovin": "74233ca108bb8067"
+      }
+    ],
+    "items": [
+      {
+        "title": "Main Quests",
+        "image": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/list1.jpg"
+      },
+      {
+        "title": "A Hidden Path",
+        "image": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/list2.jpg"
+      },
+      {
+        "title": "Rodia Town",
+        "image": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/list3.jpg"
+      },
+      {
+        "title": "Find Ranotto the Minstrel",
+        "image": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/list4.jpg"
+      },
+      {
+        "title": "Cosetta the Lost Dog",
+        "image": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/list5.jpg"
+      },
+      {
+        "title": "Savoca Prison",
+        "image": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/list6.jpg"
+      }
+    ],
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "The Baby sister in Yellow 2 : Scary Story is a first person horror game where you have to make your way out of a house which is inhabited by a very strange baby",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "The Baby sister in Yellow",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "From the starting point, follow the path west. Head inside the house with a donkey outside to trigger a cutscene and the Meet Baldo’s Grandpa trophy.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "The Baby sister in Yellow",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": " that places you in a home occupied by a very disrupting baby",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "In this game, you'll not just need to keep an eye on odd baby additionally yet research things occurring in the home.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "The Baby sister in Yellow",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "In The Baby sister In Yellow you will find 3D graphics that let you see each room of the mansion in detail and Guide For New The Baby sitter in Yellow 2 Secret can help you in gameplay",
+        "isNative": "true"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "The Baby sister in Yellow",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "This app will help you to know everything about the game .you will find many tricks ",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "The Baby sister in Yellow",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "and walkthroughs,and a lot of information about The Baby sister In Yellow 2, an easy tutor",
+        "isNative": "false"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "The Baby sister in Yellow",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "We provide guides, tricks, tips and tutorial of guide for Baby in Yellow 2 games walkthrough of how to get three stars of all levels, Solutions, Answers, Walkthrough",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "and Hints for Baby in Yellow 2 enjoy this guide once you have to. the guide contains how to complete some missions in Baby in Yellow 2.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "to remind you The Baby In Yellow is a first person horror game where you have to make your way out of a house which is inhabited by a very strange baby.",
+        "isNative": "false"
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "The Baby sister in Yellow",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "This is not the usual babysitting. You will soon discover that the child has more secrets than you might have imagined.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "In The Baby In Yellow you will find 3D graphics that let you see each room of the mansion in detail. Moreover, the sound effects also help you make history. You will find that the game gets more ",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "to remind you The Baby In Yellow is a first person horror game where you have to make your way out of a house which is inhabited by a very strange baby.",
+        "isNative": "false"
+      }
+    ],
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "The Baby sister in Yellow",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": " This is not the usual babysitting. You will soon discover that the child has more secrets than you might have imagined.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "In The Baby In Yellow you will find 3D graphics that let you see each room of the mansion in detail. Moreover, the sound effects also help you make history. You will find that the game gets more",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "more spooky as you advance through the levels.",
+        "isNative": "false"
+      }
+    ],
+    "content6": [
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "The Baby sister in Yellow",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "This App Guide For New The Baby sitter in Yellow 2 Secret can help you in gameplay",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Baby in yellow is a scary little babysitting horror game where you have to take care of a, particularly unruly baby.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Here collected the best tricks, secrets, instructions for the passage that is in The Baby in Yellow. We have developed this app to make your gaming experience better and bring you more good emotions.",
+        "isNative": "false"
+      }
+    ],
+    "content7": [
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "The Baby sister in Yellow",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Playing The Baby in Yellow can be difficult, because of the huge level of puzzles and challenges. That's why we released this app to make The Baby in Yellow easier for you to play.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "The Baby in Yellow is scary, but very addictive game. So you can get a range of different emotions, and with our guide app for The Baby in Yellow they will become even more.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Stuck at some point in The Baby in Yellow 2? Do not know how to pass a level in The Baby in Yellow 2? Our application goes to help you so that you can cope with Baby in Yellow with ease and continue your walkthrough.",
+        "isNative": "false"
+      }
+    ]
+  }
+}
