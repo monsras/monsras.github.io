@@ -1,0 +1,506 @@
+{
+  "GuideData": {
+    "AdsController": [
+      {
+        "NetworkAds": "applovin",
+        "AdMobId": "pub-3940256099942544",
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+        "SDKKEYAppLovin": "MRQ6wu7Or0GoeHcIXLPNCxnsPNMTnTfRCzkKik91TITN6xGsTDnXQ9vbv-8RggawlzwcdwiU0e5izkq0swvImE",
+        "BannerAppLovin": "64e6e59305d72b48",
+        "InterstitialAppLovin": "ed7c3f7d170a0f05",
+        "MRECAppLovin": "230cf6dca4438f68",
+        "RewardAppLovin": "f9cd8dc631972a2c"
+      }
+    ],
+    "items": [
+      {
+        "title": "Main Quests",
+        "image": "https://cdn.titotu.io/images/videos/wormszone-io-best-trolling-pro-never-mess-with-tiny-snake-epic-worms-zone-io-gameplay-42-400x226.jpg"
+      },
+      {
+        "title": "A Hidden Path",
+        "image": "https://cdn.titotu.io/images/videos/wormszone-io-best-trolling-pro-never-mess-with-tiny-snake-epic-worms-zone-io-gameplay-34-400x226.jpg"
+      },
+      {
+        "title": "Rodia Town",
+        "image": "https://cdn.titotu.io/images/videos/wormszone-io-best-trolling-pro-never-mess-with-tiny-snake-epic-worms-zone-io-gameplay-34-400x226.jpg"
+      },
+      {
+        "title": "Find Ranotto the Minstrel",
+        "image": "https://cdn.titotu.io/images/videos/wormszone-io-best-trolling-pro-never-mess-with-tiny-snake-epic-worms-zone-io-gameplay-42-400x226.jpg"
+      },
+      {
+        "title": "Cosetta the Lost Dog",
+        "image": "https://cdn.titotu.io/images/videos/wormszone-io-best-trolling-pro-never-mess-with-tiny-snake-epic-worms-zone-io-gameplay-34-400x226.jpg"
+      },
+      {
+        "title": "Savoca Prison",
+        "image": "https://cdn.titotu.io/images/videos/wormszone-io-best-trolling-pro-never-mess-with-tiny-snake-epic-worms-zone-io-gameplay-42-400x226.jpg"
+      }
+    ],
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Snake Zone.io : War Worm io is that the amazing game, Experience new way of snake worm game together with your favorite Snake Worms.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Snake io worms zone",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Snake Zone.io is a casual arcade worm game. Different from other slither&snake games, not only can you collect yummies and different powerups in the arena",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Snake io worms zone",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Snake Zone.io is a casual arcade worm game. Different from other slither&snake games, not only can you collect yummies and different powerups in the arena, but you can also compete with other players to see who is the wormmax snake",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Worms .io is a classic fun and dynamic action PVP hungry slithering game — Relax",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Snake io worms zone",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "the rules are simple. Controlling your worms to eat more delicious food becomes longer, win the worm.io battle and become the biggest worm&snake of them all! Like the oldest classic snake game, Snake Zone.io retains the core gameplay mechanism! Unique graphics keep minimalistic and simple.",
+        "isNative": "true"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Snake io worms zone",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "This 3D multiplayer worm slink game is part of .io games family. Now, this awesome worm game has upgraded gameplay.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Snake io worms zone",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "You can play offline alone, no matter where you are; you can also play battle with snake rivals or friends.",
+        "isNative": "false"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Snake io worms zone",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Slither, eat, grow, defeat snake of rivals! Snake Zone.io is designed for smooth controls, fast performance in the free addictive io game.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Similar to a classic action game,",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Similar to a classic action game, there is the last snake slithering in multiplayer Battle Royale and survives in the classic hunt of snakes and zone worms!",
+        "isNative": "false"
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Snake io worms zone",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Slither through a field of sugars or yummies and eat to make your worm grow up",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Hit other worms by sneaking and encircling them into your worm's body cleverly.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "You can choose to snake battle multiple modes-Infinite, Time mode, Survival. Will you be the wormax",
+        "isNative": "false"
+      }
+    ],
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Snake io worms zone",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Online &offline snake game with better performance on your device",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "3D snake and beautiful skins to make your worm great!",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Battle with other snakes and the boss snake.",
+        "isNative": "false"
+      }
+    ],
+    "content6": [
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Snake io worms zone",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Defeat rivals to get a high score with slithers on the ranking online.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Play anytime, anywhere. It's fun with light size game.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Eat the all food and become the biggest snake in the wormzone! Join us, play and slither like a snake with the world player.",
+        "isNative": "false"
+      }
+    ],
+    "content7": [
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Snake io worms zone",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Snake zone.io war worm io are the foremost popular game today and are widely played in various parts of the planet .",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Worm Mate Snake Zone is the amazing game, take a role of worms as io whose main goal is to grow by eating dots. Check out leader board of best snake players and complete with them by choosing best worm. Experience new way of worm with your favorite Snake io worms zone.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "If you like .io games like worm and snake, don’t hesitate to download Snake Zone .io. And start slithering your worm now! Slink into this crazy arcade game!",
+        "isNative": "false"
+      }
+    ]
+  }
+}
