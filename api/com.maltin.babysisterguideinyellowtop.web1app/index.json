@@ -7,56 +7,42 @@
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
         "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
-        "SDKKEYAppLovin": "MRQ6wu7Or0GoeHcIXLPNCxnsPNMTnTfRCzkKik91TITN6xGsTDnXQ9vbv-8RggawlzwcdwiU0e5izkq0swvImE",
+        "SDKKEYAppLovin": "QO91l1_TOsERBEiVdyJ1_v6565RlGQWzRisC9X6f4R7ycMd9S-piVBfREtbtmUp8IDf8a3H_O-fk-rFy9nk0JH",
         "BannerAppLovin": "868d73d31ebd3fe5",
         "InterstitialAppLovin": "88ac61ac8b1c81b0",
-        "MRECAppLovin": "162685d11bac5cde",
+        "MRECAppLovin": "62685d11bac5cde",
         "RewardAppLovin": "ac7aeca2eebee147"
       }
     ],
     "items": [
       {
         "title": "Main Quests",
-        "image": "https://i.ytimg.com/vi/T99xvT_Hl9s/maxresdefault.jpg"
+        "image": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/list1.jpg"
       },
       {
         "title": "A Hidden Path",
-        "image": "https://i.ytimg.com/vi/u3Zru5dGQR0/maxresdefault.jpg"
+        "image": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/list2.jpg"
       },
       {
         "title": "Rodia Town",
-        "image": "https://i.ytimg.com/vi/T99xvT_Hl9s/maxresdefault.jpg"
+        "image": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/list3.jpg"
       },
       {
         "title": "Find Ranotto the Minstrel",
-        "image": "https://i.ytimg.com/vi/u3Zru5dGQR0/maxresdefault.jpg"
+        "image": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/list4.jpg"
       },
       {
         "title": "Cosetta the Lost Dog",
-        "image": "https://i.ytimg.com/vi/T99xvT_Hl9s/maxresdefault.jpg"
+        "image": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/list5.jpg"
       },
       {
         "title": "Savoca Prison",
-        "image": "https://i.ytimg.com/vi/u3Zru5dGQR0/maxresdefault.jpg"
+        "image": "https://raw.githubusercontent.com/Amegodev/amegodev.github.io/master/api/guides/list6.jpg"
       }
     ],
     "content1": [
       {
         "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "20",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "Its your process to ensure no person robs Mr Funny's ToyShop,and It's important to preserve the energy offThe factory appears to encounter ,When the Power is grew to become on in the course of the Night shift.",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
         "color": "#f56342",
         "style": "blood",
         "gravity": "left",
@@ -66,7 +52,7 @@
         "link_title": "",
         "setLink": "",
         "image_link": "",
-        "text": "Escape Mr Funny's ToyShop",
+        "text": "The Ancient Lever",
         "isNative": "false"
       },
       {
@@ -80,7 +66,7 @@
         "link_title": "",
         "setLink": "",
         "image_link": "",
-        "text": "Make your manner via the Factory and ensure to keep away from the scary obby and Mr Funny Dummy that lurks withinside the darkness.",
+        "text": "text",
         "isNative": "true"
       },
       {
@@ -94,35 +80,7 @@
         "link_title": "",
         "setLink": "",
         "image_link": "",
-        "text": "Escape Mr Funny's ToyShop",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "Its your job to make sure no one robs the place, Also.. It's important to keep the power OFF! The factory seems to encounter....Problems?...When the Power is turned on during the Night shift.",
-        "isNative": "true"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "Make your way through the Factory and make sure to avoid the Mr Funny Dummy that lurks in the darkness.",
+        "text": "text",
         "isNative": "false"
       },
       {
@@ -136,21 +94,7 @@
         "link_title": "",
         "setLink": "",
         "image_link": "",
-        "text": "Just sit back, Relax and make sure not to turn on the power BUT..",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "hello everyone, welcome to the best game of all fans Mr Funny's ToyShop! game for scary obby.",
+        "text": "Rodia Town Owl Tower",
         "isNative": "true"
       }
     ],
@@ -166,7 +110,7 @@
         "link_title": "",
         "setLink": "",
         "image_link": "",
-        "text": "Escape Mr Funny's ToyShop",
+        "text": "A Hidden Path",
         "isNative": "false"
       },
       {
@@ -180,7 +124,7 @@
         "link_title": "",
         "setLink": "",
         "image_link": "",
-        "text": "This 3D multiplayer worm slink game is part of .io games family. Now, this awesome worm game has upgraded gameplay.",
+        "text": "texttt",
         "isNative": "true"
       },
       {
@@ -194,7 +138,7 @@
         "link_title": "",
         "setLink": "",
         "image_link": "",
-        "text": "Escape Mr Funny's ToyShop",
+        "text": "texttt",
         "isNative": "false"
       },
       {
@@ -208,7 +152,7 @@
         "link_title": "",
         "setLink": "",
         "image_link": "",
-        "text": "This New game scary obby is funny So its your first day as a Security guard for Mr Funny's ToyShop.The story is about a Mr Funny Dummy that lurks in the darkness.",
+        "text": "text",
         "isNative": "false"
       }
     ],
@@ -224,7 +168,7 @@
         "link_title": "",
         "setLink": "",
         "image_link": "",
-        "text": "Escape Mr Funny's ToyShop",
+        "text": "text",
         "isNative": "false"
       },
       {
@@ -238,12 +182,12 @@
         "link_title": "",
         "setLink": "",
         "image_link": "",
-        "text": "ts your job to make sure no one robs the place, Also.. It's important to keep the power OFF! The factory seems to",
-        "isNative": "false"
+        "text": "text",
+        "isNative": "true"
       },
       {
         "ordered": "image_text",
-        "color": "#FFFFFF",
+        "color": "#f56342",
         "style": "blood",
         "gravity": "left",
         "left": "10",
@@ -252,12 +196,12 @@
         "link_title": "",
         "setLink": "",
         "image_link": "",
-        "text": "Similar to a classic action game",
+        "text": "text",
         "isNative": "false"
       },
       {
         "ordered": "image_text",
-        "color": "#FFFFFF",
+        "color": "#f56342",
         "style": "blood",
         "gravity": "left",
         "left": "10",
@@ -266,8 +210,8 @@
         "link_title": "",
         "setLink": "",
         "image_link": "",
-        "text": "Mr Funny's ToyShop",
-        "isNative": "false"
+        "text": "text",
+        "isNative": "true"
       }
     ],
     "content4": [
@@ -282,7 +226,7 @@
         "link_title": "",
         "setLink": "",
         "image_link": "",
-        "text": "Escape Mr Funny's ToyShop",
+        "text": "The Ancient Lever",
         "isNative": "false"
       },
       {
@@ -296,12 +240,12 @@
         "link_title": "",
         "setLink": "",
         "image_link": "",
-        "text": "What’s the ideal revenge? Just sit back, Relax and make sure not to turn on the power BUT..Lets say you do turn it on and need to escape well",
-        "isNative": "false"
+        "text": "text",
+        "isNative": "true"
       },
       {
         "ordered": "image_text",
-        "color": "#FFFFFF",
+        "color": "#f56342",
         "style": "blood",
         "gravity": "left",
         "left": "10",
@@ -310,12 +254,12 @@
         "link_title": "",
         "setLink": "",
         "image_link": "",
-        "text": "Hit other worms by sneaking and encircling them into your worm's body cleverly.",
+        "text": "The Mechanism",
         "isNative": "false"
       },
       {
         "ordered": "image_text",
-        "color": "#FFFFFF",
+        "color": "#f56342",
         "style": "blood",
         "gravity": "left",
         "left": "10",
@@ -324,8 +268,8 @@
         "link_title": "",
         "setLink": "",
         "image_link": "",
-        "text": "Make your way through the Factory and make sure to avoid the Mr Funny Dummy in Escape Mr Funny's ToyShop.",
-        "isNative": "false"
+        "text": "Rodia Town Owl Tower",
+        "isNative": "true"
       }
     ],
     "content5": [
@@ -340,7 +284,7 @@
         "link_title": "",
         "setLink": "",
         "image_link": "",
-        "text": "Snake io worms zone",
+        "text": "The Ancient Lever",
         "isNative": "false"
       },
       {
@@ -354,12 +298,12 @@
         "link_title": "",
         "setLink": "",
         "image_link": "",
-        "text": "This is an official port of the original game with touch screen controls and controller support! Check out the options menu to adjust these features to your liking",
-        "isNative": "false"
+        "text": "text",
+        "isNative": "true"
       },
       {
         "ordered": "image_text",
-        "color": "#FFFFFF",
+        "color": "#f56342",
         "style": "blood",
         "gravity": "left",
         "left": "10",
@@ -368,12 +312,12 @@
         "link_title": "",
         "setLink": "",
         "image_link": "",
-        "text": "Make your way through the Factory and make sure to avoid the Mr Funny Dummy in Escape Mr",
+        "text": "The Mechanism",
         "isNative": "false"
       },
       {
         "ordered": "image_text",
-        "color": "#FFFFFF",
+        "color": "#f56342",
         "style": "blood",
         "gravity": "left",
         "left": "10",
@@ -382,8 +326,8 @@
         "link_title": "",
         "setLink": "",
         "image_link": "",
-        "text": "Travel through the 15 crazy rooms Obstacles and mini games that await you."
-        "isNative": "false"
+        "text": "Rodia Town Owl Tower",
+        "isNative": "true"
       }
     ],
     "content6": [
@@ -398,7 +342,7 @@
         "link_title": "",
         "setLink": "",
         "image_link": "",
-        "text": "Escape Mr Funny's ToyShop!",
+        "text": "The Ancient Lever",
         "isNative": "false"
       },
       {
@@ -412,12 +356,12 @@
         "link_title": "",
         "setLink": "",
         "image_link": "",
-        "text": "Make your way through the Factory and make sure to avoid the Mr Funny Dummy in Escape Mr",
-        "isNative": "false"
+        "text": "text",
+        "isNative": "true"
       },
       {
         "ordered": "image_text",
-        "color": "#FFFFFF",
+        "color": "#f56342",
         "style": "blood",
         "gravity": "left",
         "left": "10",
@@ -426,12 +370,12 @@
         "link_title": "",
         "setLink": "",
         "image_link": "",
-        "text": "Travel through the crazy rooms Obstacles and mini games that await you.",
+        "text": "The Mechanism",
         "isNative": "false"
       },
       {
         "ordered": "image_text",
-        "color": "#FFFFFF",
+        "color": "#f56342",
         "style": "blood",
         "gravity": "left",
         "left": "10",
@@ -440,8 +384,8 @@
         "link_title": "",
         "setLink": "",
         "image_link": "",
-        "text": "What’s the ideal revenge Just sit back, Relax and make sure not to turn on the power BUT..",
-        "isNative": "false"
+        "text": "Rodia Town Owl Tower",
+        "isNative": "true"
       }
     ],
     "content7": [
@@ -456,7 +400,7 @@
         "link_title": "",
         "setLink": "",
         "image_link": "",
-        "text": "Escape Mr Funny's ToyShop",
+        "text": "The Ancient Lever",
         "isNative": "false"
       },
       {
@@ -470,12 +414,12 @@
         "link_title": "",
         "setLink": "",
         "image_link": "",
-        "text": "Make your way through the Factory and make sure to avoid the Mr Funny Dummy in Escape Mr Funny's ToyShop.",
-        "isNative": "false"
+        "text": "text",
+        "isNative": "true"
       },
       {
         "ordered": "image_text",
-        "color": "#FFFFFF",
+        "color": "#f56342",
         "style": "blood",
         "gravity": "left",
         "left": "10",
@@ -484,12 +428,12 @@
         "link_title": "",
         "setLink": "",
         "image_link": "",
-        "text": "Lets say you do turn it on and need to escape well",
+        "text": "The Mechanism",
         "isNative": "false"
       },
       {
         "ordered": "image_text",
-        "color": "#FFFFFF",
+        "color": "#f56342",
         "style": "blood",
         "gravity": "left",
         "left": "10",
@@ -498,8 +442,8 @@
         "link_title": "",
         "setLink": "",
         "image_link": "",
-        "text": "This is an official port of the original game with touch screen controls and controller support! Check out the options menu to adjust these features to your liking!",
-        "isNative": "false"
+        "text": "Rodia Town Owl Tower",
+        "isNative": "true"
       }
     ]
   }
