@@ -1,506 +1,450 @@
-{
-  "GuideData": {
-    "AdsController": [
-      {
-        "NetworkAds": "applovin",
-        "AdMobId": "pub-3940256099942544",
-        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
-        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
-        "SDKKEYAppLovin": "MRQ6wu7Or0GoeHcIXLPNCxnsPNMTnTfRCzkKik91TITN6xGsTDnXQ9vbv-8RggawlzwcdwiU0e5izkq0swvImE",
-        "BannerAppLovin": "c8544f2c6ce20ed3",
-        "InterstitialAppLovin": "4522345b893e75ce",
-        "MRECAppLovin": "d730b2a309ede3df",
-        "RewardAppLovin": "5bb7259da5cab6f6"
-      }
-    ],
-    "items": [
-      {
-        "title": "Main Quests",
-        "image": "https://i.pcmag.com/imagery/reviews/026lnO4KAB5z8c3UKKnxVBO-1..v1569469979.jpg"
-      },
-      {
-        "title": "A Hidden Path",
-        "image": "https://m.gamekapocs.hu/media/galeria/jatek/10/10665/14301/238368_normal_jura2.jpg"
-      },
-      {
-        "title": "Rodia Town",
-        "image": "https://i.pcmag.com/imagery/reviews/026lnO4KAB5z8c3UKKnxVBO-1..v1569469979.jpg"
-      },
-      {
-        "title": "Find Ranotto the Minstrel",
-        "image": "https://m.gamekapocs.hu/media/galeria/jatek/10/10665/14301/238368_normal_jura2.jpg"
-      },
-      {
-        "title": "Cosetta the Lost Dog",
-        "image": "https://i.pcmag.com/imagery/reviews/026lnO4KAB5z8c3UKKnxVBO-1..v1569469979.jpg"
-      },
-      {
-        "title": "Savoca Prison",
-        "image": "https://m.gamekapocs.hu/media/galeria/jatek/10/10665/14301/238368_normal_jura2.jpg"
-      }
-    ],
-    "content1": [
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "20",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "Jurassic World Evolution is a business simulation game that allows the player to construct a Jurassic World dinosaur theme park with attractions and research facilities. Players must build an Expedition Center, which sends paleontologists to fossil dig sites to obtain dinosaurs' DNA material.",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#f56342",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "Jurassic World Evolution",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "DNA sequencing, which can be done in the Fossil Center unlocks new dinosaurs and updates their statistics, such as lifespan and resilience. With enough DNA content, players can use the Hammond Creation Lab to breed and incubate dinosaurs. Players can also improve the dinosaurs' genes by integrating DNA from modern species with that of the dinosaurs to fill their gaps and allow them to evolve. Modifications to the dinosaurs' DNA change their base statistics, as well as everything from their level of aggressiveness to their appearance.",
-        "isNative": "true"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#f56342",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "Jurassic World Evolution",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": " The game features a terrain tool which allows players to modify the environment by planting trees and creating water sources.",
-        "isNative": "true"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "Dinosaurs are the game's main attraction and income earner, although money can also be earned through selling products in stores and guests staying at hotels. The game features approximately 40 dinosaur species at launch. Players can name each dinosaur after they are incubated. Players need to build enclosures to contain dinosaurs for visitors' viewing. The needs of different dinosaurs, like the type of food they eat and the extent of the social interactions they require, must be met to keep them healthy and satisfied.",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#f56342",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "Jurassic World Evolution",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "Dinosaurs, controlled by artificial intelligence, will interact with each other and the environment, as well as guests if they have broken out of their enclosure. For instance, carnivores will attack carnivores of a different species, and they will hunt down herbivores. Players also need to construct various entertainment rides, as well as amenities like restaurants and shops to please the guests. An example of tourist attractions is the Gyrosphere or the monorail from Jurassic World. Players can also use the game's photo mode to take pictures of dinosaurs, which help the park to earn money and publicity. Each entertainment facility and amenity comes with its own management system. Players are able to set and adjust entry fees as well as the number of staff present in each facility. Dinosaurs can be sold to earn additional income.",
-        "isNative": "true"
-      }
-    ],
-    "content2": [
-      {
-        "ordered": "image_text",
-        "color": "#f56342",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "Jurassic World Evolution",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "Various emergency situations may happen in the park, including power failures, unpredictable weather, and dinosaur breakouts, which must be addressed by players to ensure guests' safety and happiness.",
-        "isNative": "true"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#f56342",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "Jurassic World Evolution",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "Players can build an ACU Center and a Ranger Station, which are responsible for maintaining the park's security. They can sedate escaped dinosaurs, medicate sick dinosaurs, resupply dinosaur feeders, transport dinosaurs, fix fences, and more. Players can also control vehicles from a third-person perspective such as helicopters and 4x4 trucks to complete these tasks. Emergency shelters to protect the guests, as well as other security structures like power network redundancies and storm warning centers, can be built. Many of these security facilities can be upgraded to strengthen their efficiency when dealing with emergencies.",
-        "isNative": "false"
-      }
-    ],
-    "content3": [
-      {
-        "ordered": "image_text",
-        "color": "#f56342",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "Jurassic World Evolution",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "In the career mode, the player's goal is to develop five-star parks across the fictional islands of the Las Cinco Muertes Archipelago. Dr. Ian Malcolm assists players throughout the game. Players will meet other key figures representing the three branches of the park's development: Entertainment, Security, and Science. Each of these characters tries to convince players to develop the park in accordance with their advice.",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "They give players "contracts" to complete which include a series of goals and objectives. These contracts add narrative to the game, as well as provide rewards and reputation in their respective domains.",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "Players are advised to keep a close eye on their reputation within each division. If a player's reputation within a division gets too low, that creates a sabotage in the player's park that will need to be attended to immediately. For instance, the park's power could be shut down allowing dinosaurs to break out, or a disease could be introduced to infect them.",
-        "isNative": "false"
-      }
-    ],
-    "content4": [
-      {
-        "ordered": "image_text",
-        "color": "#f56342",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "Jurassic World Evolution",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "These divisions all feed into the parks' ratings. The five islands, each with different characteristics and challenges, will gradually unlock with sufficient positive park ratings.",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "Isla Nublar — the island featured in Jurassic Park, Jurassic World, and Jurassic World: Fallen Kingdom is the setting for a sandbox mode that is separate from the game's career mode. The sandbox mode is unlocked once a four-star park rating is achieved on Isla Matanceros, the starting island.",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "Once this is accomplished, everything players have unlocked in career mode, such as building upgrades and dinosaurs, will transfer over to the sandbox; anything locked in career mode remains locked in the sandbox. In sandbox mode, players have unlimited funds, and they can set the weather and time of day at their parks. Challenge Mode, available in an update after the game's release, involves playing with adjustable levels of difficulty and limited money, in addition to other differences like fees and penalties against players.",
-        "isNative": "false"
-      }
-    ],
-    "content5": [
-      {
-        "ordered": "image_text",
-        "color": "#f56342",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "Jurassic World Evolution",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "Jurassic World Evolution was developed and published by Frontier Developments, and is based on the 2015 film Jurassic World",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "although the game is not considered canon, which allowed for more creative freedom.",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": " NBCUniversal had wanted a game to accompany the theatrical release of its 2018 film Jurassic World: Fallen Kingdom and approached Frontier Developments about creating it two years or so before the film's eventual release date. Frontier Developments was also interested in creating a dinosaur game.",
-        "isNative": "false"
-      }
-    ],
-    "content6": [
-      {
-        "ordered": "image_text",
-        "color": "#f56342",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "Jurassic World Evolution",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "The game was created with a development team of approximately 100 people, on a budget of around £8 million. It was built using Frontier Developments' Cobra game engine.",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "Universal Pictures provided the developers with dinosaur models from the films to allow for a high level of detail, as well as reference materials and audio. To aid in creating the game, the development team closely watched the films and read Michael Crichton's novels, Jurassic Park and The Lost World, and fan theories. In addition, Universal and the team had discussions about various elements in the game.",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "History from each of the films was added to the game. For example, Jeff Goldblum reprised his role as Ian Malcolm from the first two Jurassic Park films. Bryce Dallas Howard and B. D. Wong also reprised their roles from Jurassic World.",
-        "isNative": "false"
-      }
-    ],
-    "content7": [
-      {
-        "ordered": "image_text",
-        "color": "#f56342",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "Jurassic World Evolution",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "Tyrannosaurus rex was one of the first dinosaurs the development team began working on. For the T. rex roars, the game's sound team obtained audio samples from the films and then altered them for originality. The animation team then altered their T. rex roaring animations to fit the sound effects. To design the dinosaurs the development team primarily referred to the films for consistency, while incorporating some of the latest scientific discoveries to add to their designs. The team also studied birds and other animals to aid in designing the dinosaurs. In addition to their designs, dinosaur behavior was based on a combination of the films and scientific findings.",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "Paleontologist Jack Horner, who served as an advisor on the films, was also consulted for advice on the game's dinosaurs.",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "They were given bright and colorful hides based on new dinosaur research.",
-        "isNative": "false"
-      }
-    ]
-  }
-}
+	{
+	  "GuideData": {
+		"AdsController": [
+		  {
+			"NetworkAds": "applovin",
+			"AdMobId": "pub-3940256099942544",
+			"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+			"InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+			"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+			"SDKKEYAppLovin": "MRQ6wu7Or0GoeHcIXLPNCxnsPNMTnTfRCzkKik91TITN6xGsTDnXQ9vbv-8RggawlzwcdwiU0e5izkq0swvImE",
+			"BannerAppLovin": "c8544f2c6ce20ed3",
+			"InterstitialAppLovin": "4522345b893e75ce",
+			"MRECAppLovin": "d730b2a309ede3df",
+			"RewardAppLovin": "5bb7259da5cab6f6"
+		  }
+		],
+		"items": [
+		  {
+			"title": "Jurassic World Evolution",
+			"image": ""
+		  },
+		  {
+			"title": "Jurassic World Evolution",
+			"image": ""
+		  },
+		  {
+			"title": "Jurassic World Evolution",
+			"image": ""
+		  },
+		  {
+			"title": "Jurassic World Evolution",
+			"image": ""
+		  },
+		  {
+			"title": "Jurassic World Evolution",
+			"image": ""
+		  },
+		  {
+			"title": "Jurassic World Evolution",
+			"image": ""
+		  }
+		],
+		"content1": [
+		  {
+			"ordered": "image_text",
+			"color": "#f56342",
+			"style": "blood",
+			"gravity": "left",
+			"left": "10",
+			"text_size": "25",
+			"isLink": "false",
+			"link_title": "",
+			"setLink": "",
+			"image_link": "",
+			"text": "Jurassic World Evolution",
+			"isNative": "false"
+		  },
+		  {
+			"ordered": "image_text",
+			"color": "#FFFFFF",
+			"style": "blood",
+			"gravity": "left",
+			"left": "10",
+			"text_size": "25",
+			"isLink": "false",
+			"link_title": "",
+			"setLink": "",
+			"image_link": "",
+			"text": "Jurassic World Evolution Guide mobile app is a tool that contains the best tips and tricks for this strategy game.",
+			"isNative": "true"
+		  },
+		  {
+			"ordered": "image_text",
+			"color": "#f56342",
+			"style": "blood",
+			"gravity": "left",
+			"left": "10",
+			"text_size": "25",
+			"isLink": "false",
+			"link_title": "",
+			"setLink": "",
+			"image_link": "",
+			"text": "Our Jurassic World Evolution guide and walkthrough is dedicated for strategy and simulation games lovers. by using our app, you will learn about Jurassic World Evolution gameplay and a lot more.",
+			"isNative": "false"
+		  },
+		  {
+			"ordered": "image_text",
+			"color": "#f56342",
+			"style": "blood",
+			"gravity": "left",
+			"left": "10",
+			"text_size": "25",
+			"isLink": "false",
+			"link_title": "",
+			"setLink": "",
+			"image_link": "",
+			"text": "Jurassic World Evolution",
+			"isNative": "true"
+		  }
+		],
+		"content2": [
+		  {
+			"ordered": "image_text",
+			"color": "#f56342",
+			"style": "blood",
+			"gravity": "left",
+			"left": "10",
+			"text_size": "25",
+			"isLink": "false",
+			"link_title": "",
+			"setLink": "",
+			"image_link": "",
+			"text": "Players need to build enclosures to contain dinosaurs for visitors' viewing. The needs of different dinosaurs, like the type of food they eat and the extent of the social interactions they require, must be met to keep them healthy and satisfied.",
+			"isNative": "false"
+		  },
+		  {
+			"ordered": "image_text",
+			"color": "#FFFFFF",
+			"style": "blood",
+			"gravity": "left",
+			"left": "10",
+			"text_size": "25",
+			"isLink": "false",
+			"link_title": "",
+			"setLink": "",
+			"image_link": "",
+			"text": "Dinosaurs, controlled by artificial intelligence, will interact with each other and the environment, as well as guests if they have broken out of their enclosure. For instance, carnivores will attack carnivores of a different species, and they will hunt down herbivores.",
+			"isNative": "true"
+		  },
+		  {
+			"ordered": "image_text",
+			"color": "#f56342",
+			"style": "blood",
+			"gravity": "left",
+			"left": "10",
+			"text_size": "25",
+			"isLink": "false",
+			"link_title": "",
+			"setLink": "",
+			"image_link": "",
+			"text": "Players also need to construct various entertainment rides, as well as amenities like restaurants and shops to please the guests. An example of tourist attractions is the Gyrosphere or the monorall from Jurassic World.",
+			"isNative": "false"
+		  },
+		  {
+			"ordered": "image_text",
+			"color": "#FFFFFF",
+			"style": "blood",
+			"gravity": "left",
+			"left": "10",
+			"text_size": "25",
+			"isLink": "false",
+			"link_title": "",
+			"setLink": "",
+			"image_link": "",
+			"text": "Players can also use the game's photo mode to take pictures of dinosaurs, which help the park to earn money and publicity.",
+			"isNative": "false"
+		  }
+		],
+		"content3": [
+		  {
+			"ordered": "image_text",
+			"color": "#f56342",
+			"style": "blood",
+			"gravity": "left",
+			"left": "10",
+			"text_size": "25",
+			"isLink": "false",
+			"link_title": "",
+			"setLink": "",
+			"image_link": "",
+			"text": "Each entertainment facility and amenity comes with its own management system. Players are able to set and adjust entry fees as well as the number of staff present in each facility. Dinosaurs can be sold to earn additional income.",
+			"isNative": "false"
+		  },
+		  {
+			"ordered": "image_text",
+			"color": "#FFFFFF",
+			"style": "blood",
+			"gravity": "left",
+			"left": "10",
+			"text_size": "25",
+			"isLink": "false",
+			"link_title": "",
+			"setLink": "",
+			"image_link": "",
+			"text": "Various emergency situations may happen in the park, including power failures, unpredictable weather, and dinosaur breakouts, which must be addressed by players to ensure guests' safety and happiness.",
+			"isNative": "true"
+		  },
+		  {
+			"ordered": "image_text",
+			"color": "#f56342",
+			"style": "blood",
+			"gravity": "left",
+			"left": "10",
+			"text_size": "25",
+			"isLink": "false",
+			"link_title": "",
+			"setLink": "",
+			"image_link": "",
+			"text": "Players can build an ACU Center and a Ranger Station, which are responsible for maintaining the parks security. They can sedate escaped dinosaurs, medicate sick dinosaurs, resupply dinosaur feeders, transport dinosaurs, fix fences, and more.",
+			"isNative": "false"
+		  },
+		  {
+			"ordered": "image_text",
+			"color": "#f56342",
+			"style": "blood",
+			"gravity": "left",
+			"left": "10",
+			"text_size": "25",
+			"isLink": "false",
+			"link_title": "",
+			"setLink": "",
+			"image_link": "",
+			"text": "Jurassic World Evolution",
+			"isNative": "true"
+		  }
+		],
+		"content4": [
+		  {
+			"ordered": "image_text",
+			"color": "#f56342",
+			"style": "blood",
+			"gravity": "left",
+			"left": "10",
+			"text_size": "25",
+			"isLink": "false",
+			"link_title": "",
+			"setLink": "",
+			"image_link": "",
+			"text": "Emergency shelters to protect the guests, as well as other security structures like power network redundancies and storm warning centers, can be built.",
+			"isNative": "false"
+		  },
+		  {
+			"ordered": "image_text",
+			"color": "#FFFFFF",
+			"style": "blood",
+			"gravity": "left",
+			"left": "10",
+			"text_size": "25",
+			"isLink": "false",
+			"link_title": "",
+			"setLink": "",
+			"image_link": "",
+			"text": "Many of these security facilities can be upgraded to strengthen their efficiency when dealing with emergencies",
+			"isNative": "true"
+		  },
+		  {
+			"ordered": "image_text",
+			"color": "#f56342",
+			"style": "blood",
+			"gravity": "left",
+			"left": "10",
+			"text_size": "25",
+			"isLink": "false",
+			"link_title": "",
+			"setLink": "",
+			"image_link": "",
+			"text": "Jurassic",
+			"isNative": "false"
+		  },
+		  {
+			"ordered": "image_text",
+			"color": "#f56342",
+			"style": "blood",
+			"gravity": "left",
+			"left": "10",
+			"text_size": "25",
+			"isLink": "false",
+			"link_title": "",
+			"setLink": "",
+			"image_link": "",
+			"text": "Jurassic World Evolution",
+			"isNative": "true"
+		  }
+		],
+		"content5": [
+		  {
+			"ordered": "image_text",
+			"color": "#f56342",
+			"style": "blood",
+			"gravity": "left",
+			"left": "10",
+			"text_size": "25",
+			"isLink": "false",
+			"link_title": "",
+			"setLink": "",
+			"image_link": "",
+			"text": "Jurassic World Evolution",
+			"isNative": "false"
+		  },
+		  {
+			"ordered": "image_text",
+			"color": "#FFFFFF",
+			"style": "blood",
+			"gravity": "left",
+			"left": "10",
+			"text_size": "25",
+			"isLink": "false",
+			"link_title": "",
+			"setLink": "",
+			"image_link": "",
+			"text": "In the career mode, the player's goal is to develop five-star parks across the fictional islands of the Las Cinco Muertes Archipelago.",
+			"isNative": "true"
+		  },
+		  {
+			"ordered": "image_text",
+			"color": "#f56342",
+			"style": "blood",
+			"gravity": "left",
+			"left": "10",
+			"text_size": "25",
+			"isLink": "false",
+			"link_title": "",
+			"setLink": "",
+			"image_link": "",
+			"text": "Players will meet other key figures representing the three branches of the park's development: Entertainment, Security",
+			"isNative": "false"
+		  },
+		  {
+			"ordered": "image_text",
+			"color": "#f56342",
+			"style": "blood",
+			"gravity": "left",
+			"left": "10",
+			"text_size": "25",
+			"isLink": "false",
+			"link_title": "",
+			"setLink": "",
+			"image_link": "",
+			"text": "Jurassic World Evolution",
+			"isNative": "true"
+		  }
+		],
+		"content6": [
+		  {
+			"ordered": "image_text",
+			"color": "#f56342",
+			"style": "blood",
+			"gravity": "left",
+			"left": "10",
+			"text_size": "25",
+			"isLink": "false",
+			"link_title": "",
+			"setLink": "",
+			"image_link": "",
+			"text": "Jurassic World Evolution",
+			"isNative": "false"
+		  },
+		  {
+			"ordered": "image_text",
+			"color": "#FFFFFF",
+			"style": "blood",
+			"gravity": "left",
+			"left": "10",
+			"text_size": "25",
+			"isLink": "false",
+			"link_title": "",
+			"setLink": "",
+			"image_link": "",
+			"text": "Science. Each of these characters tries to convince players to develop the park in accordance with their advice.",
+			"isNative": "true"
+		  },
+		  {
+			"ordered": "image_text",
+			"color": "#f56342",
+			"style": "blood",
+			"gravity": "left",
+			"left": "10",
+			"text_size": "25",
+			"isLink": "false",
+			"link_title": "",
+			"setLink": "",
+			"image_link": "",
+			"text": " They give players "contracts" to complete which include a series of goals and objectives. These contracts add narrative to the game, as well as provide rewards and reputation in their respective domains.",
+			"isNative": "false"
+		  },
+		  {
+			"ordered": "image_text",
+			"color": "#f56342",
+			"style": "blood",
+			"gravity": "left",
+			"left": "10",
+			"text_size": "25",
+			"isLink": "false",
+			"link_title": "",
+			"setLink": "",
+			"image_link": "",
+			"text": "Jurassic World Evolution",
+			"isNative": "true"
+		  }
+		],
+		"content7": [
+		  {
+			"ordered": "image_text",
+			"color": "#f56342",
+			"style": "blood",
+			"gravity": "left",
+			"left": "10",
+			"text_size": "25",
+			"isLink": "false",
+			"link_title": "",
+			"setLink": "",
+			"image_link": "",
+			"text": "Players are advised to keep a close eye on their reputation within each division. If a player's reputation within a division gets too low",
+			"isNative": "false"
+		  },
+		  {
+			"ordered": "image_text",
+			"color": "#FFFFFF",
+			"style": "blood",
+			"gravity": "left",
+			"left": "10",
+			"text_size": "25",
+			"isLink": "false",
+			"link_title": "",
+			"setLink": "",
+			"image_link": "",
+			"text": "The five islands, each with different characteristics and challenges, will gradually unlock with sufficient positive park ratings.",
+			"isNative": "true"
+		  },
+		  {
+			"ordered": "image_text",
+			"color": "#f56342",
+			"style": "blood",
+			"gravity": "left",
+			"left": "10",
+			"text_size": "25",
+			"isLink": "false",
+			"link_title": "",
+			"setLink": "",
+			"image_link": "",
+			"text": "The sandbox mode is unlocked once a four star park rating is achieved on Isla Matanceros the starting island",
+			"isNative": "false"
+		  },
+		  {
+			"ordered": "image_text",
+			"color": "#f56342",
+			"style": "blood",
+			"gravity": "left",
+			"left": "10",
+			"text_size": "25",
+			"isLink": "false",
+			"link_title": "",
+			"setLink": "",
+			"image_link": "",
+			"text": "Once this is accomplished, everything players have unlocked in career mode, such as building upgrades and dinosaurs, will transfer over to the sandbox; anything locked in career mode remains locked in the sandbox",
+			"isNative": "true"
+		  }
+		]
+	  }
+	}
