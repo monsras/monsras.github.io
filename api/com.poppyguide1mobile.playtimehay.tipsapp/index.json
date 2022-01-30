@@ -1,0 +1,450 @@
+{
+  "GuideData": {
+    "AdsController": [
+      {
+        "NetworkAds": "applovin",
+        "AdMobId": "pub-3940256099942544",
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+        "SDKKEYAppLovin": "MRQ6wu7Or0GoeHcIXLPNCxnsPNMTnTfRCzkKik91TITN6xGsTDnXQ9vbv-8RggawlzwcdwiU0e5izkq0swvImE",
+        "BannerAppLovin": "7b12beecfd4546bc",
+        "InterstitialAppLovin": "bbd4207789dc442c",
+        "MRECAppLovin": "25fbace5c142911d",
+        "RewardAppLovin": "25fbace5c142911d"
+      }
+    ],
+    "items": [
+      {
+        "title": "START 1",
+        "image": ""
+      },
+      {
+        "title": "START 2",
+        "image": ""
+      },
+      {
+        "title": "START 3",
+        "image": ""
+      },
+      {
+        "title": "START 4",
+        "image": ""
+      },
+      {
+        "title": "START 5",
+        "image": ""
+      },
+      {
+        "title": "START 6",
+        "image": ""
+      }
+    ],
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "The Ancient Lever",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Welcome to this fun game Human huggy vs poppy fall Fall fight Flat you play as a jelly Wrestling poppy playtime who keeps beats",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "to survive in places filled with object which you can use to destroy other wrestling enemy fighter",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Rodia Town Owl Tower",
+        "isNative": "true"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "more dynamism and action and more opportunities with unique situations await you in the rest",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Discover the funniest and comedy huggy wuggy poppy playtime Fall human Neighbor Flat Wrestling game in realistic platformer",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "In huggy wuggy Human Neighbor Fall fight Flat poppy you play as a jelly Wrestling poppy playtime who keeps beats to survive in places",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Show what you can do and fight like a Beasts in the flesh. Take any random item in your hand and use it as you like poppy playtime",
+        "isNative": "false"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Beat wrestling crewmate enemies with any objects in your way or even throw huggy wuggy human neighbor",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "wrestling wherever you want or throw them from a great height The will fall flat like crewmate",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "See how comedy poopy playtime are ridiculously fall beast and fight like But to complete the game you must also defeat the bosses poppy playtime.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "poopy",
+        "isNative": "true"
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "poopy",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "See how comedy poopy playtime are ridiculously fall beast and fight like But to complete the game you must also defeat the bosses poppy playtime.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "playtime.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Rodia Town Owl Tower",
+        "isNative": "true"
+      }
+    ],
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "playtime.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "ool and funny poppy human neighbor gang beast’s characters",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "The Mechanism",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Rodia Town Owl Tower",
+        "isNative": "true"
+      }
+    ],
+    "content6": [
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "The Ancient Lever",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "More dynamism and action and more opportunities",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "The Mechanism",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Rodia Town Owl Tower",
+        "isNative": "true"
+      }
+    ],
+    "content7": [
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "See how comedy poopy playtime are ridiculously fall beast and fight like But to complete the game you must also defeat the bosses poppy playtime.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Amazing human gang beasts graphics, effects and sounds",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "The Mechanism",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Rodia Town Owl Tower",
+        "isNative": "true"
+      }
+    ]
+  }
+}
